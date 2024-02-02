@@ -1,0 +1,21 @@
+---
+title: "Titel der Hausarbeit"
+author: "Name des Studierenden"
+date: "Abgabedatum"
+output: pdf_document
+---
+
+\pagenumbering{gobble}  
+\begin{center}
+\Large{Universität oder Hochschule}\\[1em]
+\Large{Studiengang}\\[1em]
+\Large{Name der Lehrveranstaltung}\\[1em]
+\Large{Name des Dozenten}\\[2em]
+\Huge{\textbf{Titel der Hausarbeit}}\\[2em]
+\Large{Name des Studierenden}\\
+\Large{Matrikelnummer}\\[1em]
+\Large{Abgabedatum}
+\end{center}
+\newpage
+\pagenumbering{arabic}
+https://meinghostwriter.de/blog/hausarbeit-deckblatt/
